@@ -7,8 +7,8 @@
 - 📫 How to reach me: **anilozturk96@gmail.com**
 
 ### Kaggle Notebooks
-- Türkiye İş Bankası Machine Learning Challenge #3 - 5th / 117 ([github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
-- Anadolu Sigorta Datathon - 3rd / 36 ([github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
+- Türkiye İş Bankası Machine Learning Challenge #3 - **5th / 117** ([github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
+- Anadolu Sigorta Datathon - **3rd / 36** ([github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
 
 ### Research Repositories
 - Correlation Analysis of Centrality Measures ([link](https://github.com/nlztrk/centrality_correlations))
