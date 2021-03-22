@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anıl 👋</h1>
+<h3 align="center">Machine Learning Engineer, MSc Student at Istanbul Technical University</h3>
 
-<!--
-**nlztrk/nlztrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nlztrk&show_icons=true" alt="nlztrk" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning, Deep Learning and Deep Reinforcement Learning
+- 🌱 I’m currently learning NLP, Data Science, Curriculum approaches for RL
+- 💬 Ask me about **PyTorch**, **Deep Reinforcement Learning** and **Machine Learning**
+- 📫 How to reach me: **anilozturk96@gmail.com**
+
+### Kaggle Notebooks
+- Türkiye İş Bankası Machine Learning Challenge #3 - 5th / 117 ([github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
+- Anadolu Sigorta Datathon - 3rd / 36 ([github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
