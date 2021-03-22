@@ -20,7 +20,7 @@
 - Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[IV2020]**
 
 ### Course Projects
-- Artificial Intelligence ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
-- Machine Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
-- Deep Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)))
-- Deep Reinforcement Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG604E%20(Deep%20Reinforcement%20Learning)))
+- Artificial Intelligence ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
+- Machine Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
+- Deep Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)))
+- Deep Reinforcement Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG604E%20(Deep%20Reinforcement%20Learning)))
