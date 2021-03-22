@@ -21,6 +21,6 @@
 
 ### Course Projects
 - Artificial Intelligence ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
-- Machine Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning))))
-- Deep Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning))))
-- Deep Reinforcement Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG604E%20(Deep%20Reinforcement%20Learning))))
+- Machine Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
+- Deep Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)))
+- Deep Reinforcement Learning ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG604E%20(Deep%20Reinforcement%20Learning)))
