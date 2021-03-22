@@ -15,6 +15,7 @@
 - Building and Running GANs, SR-GANs and VAEs on Icons ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)/Homework3))
 - Correlation Analysis of Graph Centrality Measures ([link](https://github.com/nlztrk/centrality_correlations))
 - Crime Network Analysis ([link](https://github.com/nlztrk/crime_networks_analysis))
+- Girvan-Newman Implementation for Highest Modularity ([link](https://github.com/nlztrk/girvan_newman))
 
 ### Publications
 - Investigating Value of Curriculum Reinforcement Learningin Autonomous Driving Under Diverse Road and Weather Conditions ([link](https://arxiv.org/abs/2103.07903)) **[arXiv - 2021]**
