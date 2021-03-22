@@ -19,7 +19,7 @@
 - Investigating Value of Curriculum Reinforcement Learningin Autonomous Driving Under Diverse Road and Weather Conditions ([link](https://arxiv.org/abs/2103.07903)) **[arXiv - 2021]**
 - Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[IV2020]**
 
-### Course Projects
+### MSc. Course Projects
 - Artificial Intelligence ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
 - Machine Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
 - Deep Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)))
