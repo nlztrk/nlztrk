@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer, MSc Student at Istanbul Technical University</h3>
 
 - 🔭 I’m currently working on **Machine Learning**, **Deep Learning** and **Deep Reinforcement Learning**
-- 🌱 I’m currently learning **NLP**, **Data Science**, **Curriculum approaches for RL**
+- 🌱 I’m currently learning **Data Science**, **Curriculum approaches for RL**
 - 💬 Ask me about **PyTorch**, **Deep Reinforcement Learning** and **Machine Learning**
 - 📫 How to reach me: **anilozturk96@gmail.com**
 
