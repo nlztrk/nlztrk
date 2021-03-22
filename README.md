@@ -12,7 +12,7 @@
 
 ### Research Repositories
 - Self-Diffusion on Graphs for Image Segmentation ([link](https://github.com/nlztrk/graph_self_diffusion))
-- Building and Running GANs, SR-GANs and VAEs on Icons ([link](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)/Homework3))
+- Building and Running GANs, SR-GANs and VAEs on Icons ([link](https://github.com/nlztrk/gan_srgan_vae))
 - Correlation Analysis of Graph Centrality Measures ([link](https://github.com/nlztrk/centrality_correlations))
 - Crime Network Analysis ([link](https://github.com/nlztrk/crime_networks_analysis))
 - Girvan-Newman Implementation for Highest Modularity ([link](https://github.com/nlztrk/girvan_newman))
