@@ -15,5 +15,5 @@
 - Crime Network Analysis ([link](https://github.com/nlztrk/crime_networks_analysis))
 
 ### Publications
-- Investigating Value of Curriculum Reinforcement Learningin Autonomous Driving Under Diverse Road and Weather Conditions ([link](https://arxiv.org/abs/2103.07903)) [arXiv - 2021]
-- Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) [IV2020]
+- Investigating Value of Curriculum Reinforcement Learningin Autonomous Driving Under Diverse Road and Weather Conditions ([link](https://arxiv.org/abs/2103.07903)) **[arXiv - 2021]**
+- Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[IV2020]**
