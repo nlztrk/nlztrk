@@ -6,7 +6,7 @@
 - 💬 Ask me about **PyTorch**, **Deep Reinforcement Learning** and **Machine Learning**
 - 📫 How to reach me: **anilozturk96@gmail.com**
 
-## Profiles
+### Profiles
 - [**Kaggle**](https://www.kaggle.com/nlztrk)
 - [**LinkedIn**](https://www.linkedin.com/in/nlztrk/)
 
