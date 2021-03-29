@@ -6,6 +6,9 @@
 - 💬 Ask me about **PyTorch**, **Deep Reinforcement Learning** and **Machine Learning**
 - 📫 How to reach me: **anilozturk96@gmail.com**
 
+([**Kaggle**](https://www.kaggle.com/nlztrk))
+([**LinkedIn**](https://www.linkedin.com/in/nlztrk/))
+
 ### Kaggle Notebooks
 - Türkiye İş Bankası Machine Learning Challenge #3 - **5th / 117** ([github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
 - Anadolu Sigorta Datathon - **3rd / 36** ([github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
