@@ -17,8 +17,8 @@
 
 ### Research Repositories
 - Estimating Revenue with in-app User Events ([link](https://github.com/nlztrk/app_revenue_estimation))
-- Self-Diffusion on Graphs for Image Segmentation ([link](https://github.com/nlztrk/graph_self_diffusion))
 - Building and Running GANs, SR-GANs and VAEs on Icons ([link](https://github.com/nlztrk/gan_srgan_vae))
+- Self-Diffusion on Graphs for Image Segmentation ([link](https://github.com/nlztrk/graph_self_diffusion))
 - Correlation Analysis of Graph Centrality Measures ([link](https://github.com/nlztrk/centrality_correlations))
 - Crime Network Analysis ([link](https://github.com/nlztrk/crime_networks_analysis))
 - Girvan-Newman Implementation for Highest Graph Modularity ([link](https://github.com/nlztrk/girvan_newman))
