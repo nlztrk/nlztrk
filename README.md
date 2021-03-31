@@ -16,6 +16,7 @@
 - Identifying Structural Damages with Image Segmentation - **3rd / 36** ([github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
 
 ### Research Repositories
+- Estimating Revenue with in-app User Events ([link](https://github.com/nlztrk/app_revenue_estimation))
 - Self-Diffusion on Graphs for Image Segmentation ([link](https://github.com/nlztrk/graph_self_diffusion))
 - Building and Running GANs, SR-GANs and VAEs on Icons ([link](https://github.com/nlztrk/gan_srgan_vae))
 - Correlation Analysis of Graph Centrality Measures ([link](https://github.com/nlztrk/centrality_correlations))
