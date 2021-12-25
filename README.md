@@ -12,8 +12,9 @@
 
 
 ### Kaggle Competitions
-- Predicting Marital Status using Monthly Expense Data - **5th / 117** ([github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
-- Identifying Structural Damages with Image Segmentation - **3rd / 36** ([github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
+- Estimation of Customers Opening a Sales File within 3 months - **5th / 52** *(3rd / 15 among finalists from three different competitions after presentations)* ([Kaggle - Preprocessing](https://www.kaggle.com/nlztrk/1-data-preprocessing-do-u-otomotiv/)) ([Kaggle - Train & Inference](https://www.kaggle.com/nlztrk/2-create-train-inference-do-u-otomotiv)) [Nov 2021]
+- Predicting Marital Status using Monthly Expense Data - **5th / 117** ([Github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
+- Identifying Structural Damages with Image Segmentation - **4th / 36** *(3rd / 36 after presentations)* ([Github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
 
 ### Research Repositories
 - Estimating Revenue using in-app User Events ([link](https://github.com/nlztrk/app_revenue_estimation))
@@ -29,7 +30,7 @@
 - Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[2020 IEEE Intelligent Vehicles Symposium]**
 
 ### MSc. Course Projects
-- Artificial Intelligence ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
-- Machine Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
-- Deep Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)))
-- Deep Reinforcement Learning ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG604E%20(Deep%20Reinforcement%20Learning)))
+- Artificial Intelligence ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
+- Machine Learning ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
+- Deep Learning ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)))
+- Deep Reinforcement Learning ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG604E%20(Deep%20Reinforcement%20Learning)))
