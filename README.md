@@ -24,8 +24,9 @@
 - Girvan-Newman Implementation for Highest Graph Modularity ([link](https://github.com/nlztrk/girvan_newman))
 
 ### Publications
+- Monocular 3D Object Detection by Leveraging Self-Supervised Visual Pre-training ([link](https://ml4ad.github.io/files/papers2021/Monocular%203D%20Object%20Detection%20by%20Leveraging%20Self-Supervised%20Visual%20Pre-training.pdf)) **[2021 NeurIPS - ML4AD Workshop]**
 - Investigating Value of Curriculum Reinforcement Learningin Autonomous Driving Under Diverse Road and Weather Conditions ([link](https://arxiv.org/abs/2103.07903)) **[arXiv - 2021]**
-- Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[IV2020]**
+- Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[2020 IEEE Intelligent Vehicles Symposium]**
 
 ### MSc. Course Projects
 - Artificial Intelligence ([github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
