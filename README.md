@@ -12,6 +12,8 @@
 
 
 ### Kaggle Competitions
+- EnerjiSA WindForce Hackathon - Kaggle Phase - **1st / 128** ([Kaggle](https://www.kaggle.com/code/nlztrk/1st-place-solution-impute-powerfold-stack)) [May 2022]
+- EnerjiSA Energy Datathon - **3rd / 207** *(1st among finalists after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/3rd-place-solution-catboost-tssplit-cv)) [Mar 2022]
 - Estimation of Customers Opening a Sales File within 3 months - **5th / 52** *(3rd / 15 among finalists from three different competitions after presentations)* ([Kaggle - Preprocessing](https://www.kaggle.com/nlztrk/1-data-preprocessing-do-u-otomotiv/)) ([Kaggle - Train & Inference](https://www.kaggle.com/nlztrk/2-create-train-inference-do-u-otomotiv)) [Nov 2021]
 - Predicting Marital Status using Monthly Expense Data - **5th / 117** ([Github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
 - Identifying Structural Damages with Image Segmentation - **4th / 36** *(3rd / 36 after presentations)* ([Github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
