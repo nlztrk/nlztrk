@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Anıl 👋</h1>
-<h3 align="center">Machine Learning Engineer, MSc Student at Istanbul Technical University</h3>
+<h3 align="center">Machine Learning Engineer, Computer Engineer MSc.</h3>
 
-- 🔭 I’m currently working on **Machine Learning**, **Deep Learning** and **Deep Reinforcement Learning**
-- 🌱 I’m currently learning **anomaly detection** and **post-processing time-series predictions**.
-- 💬 Ask me about **TensorFlow**, **PyTorch**, **Deep Reinforcement Learning** and **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning**, **Deep Learning** and **Deep Reinforcement Learning**.
+- 🌱 I’m currently learning **anomaly detection** and **time-series forecasting**.
+- 💬 Ask me about **TensorFlow**, **PyTorch**, **Deep Reinforcement Learning** and **Machine Learning**.
 - 📫 How to reach me: **anilozturk96@gmail.com**
 
 ### Profiles
