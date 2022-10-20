@@ -1,15 +1,19 @@
-<h1 align="center">Hi there, I'm Anıl 👋</h1>
+<h1 align="center">Hi there, I'm Anil! 👋</h1>
 <h3 align="center">Senior Machine Learning Engineer, Computer Engineer MSc.</h3>
 
-- 🔭 I’m currently working on **Machine Learning**, **Deep Learning** and **Deep Reinforcement Learning**.
-- 🌱 I’m currently learning **anomaly detection** and **time-series forecasting**.
-- 💬 Ask me about **TensorFlow**, **PyTorch**, **Deep Reinforcement Learning** and **Machine Learning**.
-- 📫 How to reach me: **anilozturk96@gmail.com**
+<p align="center">Currently working on <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Deep Reinforcement Learning</b>.</p>
 
-### Profiles
-- [**Kaggle**](https://www.kaggle.com/nlztrk)
-- [**LinkedIn**](https://www.linkedin.com/in/nlztrk/)
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=nlztrk&show_icons=true"></p>
 
+<p align="center">
+<a href="https://www.github.com/nlztrk"><img src="https://img.shields.io/github/followers/nlztrk?style=social"/></a>
+<a href="https://www.twitter.com/anil_ozturkk"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="70" height="20" /></a>
+<a href="https://www.linkedin.com/nlztrk"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
+<a href="https://www.medium.com/@nlztrk"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="20" /></a>
+<a href="https://www.kaggle.com/nlztrk"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="60" height="20" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=nlztrk"/>
+</p>
 
 ### Competitions
 - Estimating call amount in case of an outage at power networks - **7th / 72** *(3rd among finalists after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/long-live-the-shallow-models-7th-place-solution)) [Sep 2022]
@@ -42,3 +46,5 @@
 - Machine Learning ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
 - Deep Learning ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG561E%20(Deep%20Learning)))
 - Deep Reinforcement Learning ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG604E%20(Deep%20Reinforcement%20Learning)))
+
+
