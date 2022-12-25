@@ -15,7 +15,8 @@
 <img src="https://komarev.com/ghpvc/?username=nlztrk"/>
 </p>
 
-### Competitions
+### Competitions,
+- Predict benefitting from a particular campaign with past transactions - **3rd / 186** ([Kaggle](https://www.kaggle.com/code/nlztrk/3rd-place-solution-0-51376-0-47111)) [Dec 2022]
 - Estimating call amount in case of an outage at power networks - **7th / 72** *(3rd among finalists after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/long-live-the-shallow-models-7th-place-solution)) [Sep 2022]
 - Development of a public legislation search engine - **1st** ([Github](https://github.com/L2-Regulasyon/Teknofest)) [Sep 2022]
 - Matching point of interest data across datasets - **55th / 1079 (Top 6\%)** ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost/notebook?scriptVersionId=99727104)) [Jul 2022]
