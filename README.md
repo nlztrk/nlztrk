@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.github.com/nlztrk"><img src="https://img.shields.io/github/followers/nlztrk?style=social"/></a>
 <a href="https://www.twitter.com/anil_ozturkk"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" width="70" height="20" /></a>
-<a href="https://www.linkedin.com/nlztrk"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
+<a href="https://www.linkedin.com/in/nlztrk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
 <a href="https://www.medium.com/@nlztrk"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="20" /></a>
 <a href="https://www.kaggle.com/nlztrk"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="60" height="20" /></a>
 <br>
