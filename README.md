@@ -15,15 +15,19 @@
 <img src="https://komarev.com/ghpvc/?username=nlztrk"/>
 </p>
 
-### Competitions,
+### Competitions
+**Global**
+- Predicting e-commerce clicks, cart additions, and orders - **30th / 2587 (Top 2\%)** ([Kaggle](https://www.kaggle.com/competitions/otto-recommender-system/discussion/382812)) ([Github](https://github.com/nlztrk/OTTO-Multi-Objective-Recommender-System)) [Feb 2023]
+- Matching point of interest data across datasets - **55th / 1079 (Top 6\%)** ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost/notebook?scriptVersionId=99727104)) [Jul 2022]
+- Predicting wildfire occurence in Turkey - **1st / 17** ([Github](https://github.com/nlztrk/turkey_wildfire_prediction)) [Apr 2022]
+
+**Turkey**
 - Predicting benefit from a particular campaign with past transactions - **3rd / 186** ([Kaggle](https://www.kaggle.com/code/nlztrk/3rd-place-solution-0-51376-0-47111)) [Dec 2022]
 - Estimating call amount in case of an outage at power networks - **7th / 72** *(3rd among finalists after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/long-live-the-shallow-models-7th-place-solution)) [Sep 2022]
 - Development of a public legislation search engine - **1st** ([Github](https://github.com/L2-Regulasyon/Teknofest)) [Sep 2022]
-- Matching point of interest data across datasets - **55th / 1079 (Top 6\%)** ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost/notebook?scriptVersionId=99727104)) [Jul 2022]
 - Predicting the vehicle malfunction - **4th / 84** *(1st among finalists after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/4th-place-solution-0-29455-catboost-w-sgkf)) [Jul 2022]
 - Predicting the demand on increase in payments  - **1st / 114** ([Kaggle](https://www.kaggle.com/code/ismaildennizli/1st-place-solution-catpower)) [May 2022]
 - Estimating wind-power generation using SCADA data - Kaggle Phase - **1st / 128** ([Kaggle](https://www.kaggle.com/code/nlztrk/1st-place-solution-impute-powerfold-stack)) [May 2022]
-- Predicting wildfire occurence in Turkey - **1st / 17** ([Github](https://github.com/nlztrk/turkey_wildfire_prediction)) [Apr 2022]
 - Estimating solar-power generation using weather data - **3rd / 207** *(1st among finalists after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/3rd-place-solution-catboost-tssplit-cv)) [Mar 2022]
 - Estimation of Customers Opening a Sales File within 3 months - **5th / 52** *(3rd / 15 among finalists from three different competitions after presentations)* ([Kaggle - Preprocessing](https://www.kaggle.com/nlztrk/1-data-preprocessing-do-u-otomotiv/)) ([Kaggle - Train & Inference](https://www.kaggle.com/nlztrk/2-create-train-inference-do-u-otomotiv)) [Nov 2021]
 - Predicting Marital Status using Monthly Expense Data - **5th / 117** ([Github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
