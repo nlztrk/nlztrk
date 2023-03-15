@@ -17,6 +17,7 @@
 
 ### Competitions
 **Global**
+- Matching learning materials with relevant contents - **31st / 1057 (Top 3\%)** ([Kaggle](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/discussion/394807)) ([Github](https://github.com/nlztrk/Learning-Equality-Curriculum-Recommendations)) [Mar 2023]
 - Predicting e-commerce clicks, cart additions, and orders - **28th / 2587 (Top 2\%)** ([Kaggle](https://www.kaggle.com/competitions/otto-recommender-system/discussion/382812)) ([Github](https://github.com/nlztrk/OTTO-Multi-Objective-Recommender-System)) [Feb 2023]
 - Matching point of interest data across datasets - **55th / 1079 (Top 6\%)** ([Kaggle](https://www.kaggle.com/code/karakasatarik/60nn-inference-w-kdtree-58feature-catboost/notebook?scriptVersionId=99727104)) [Jul 2022]
 - Predicting wildfire occurence in Turkey - **1st / 17** ([Github](https://github.com/nlztrk/turkey_wildfire_prediction)) [Apr 2022]
