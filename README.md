@@ -17,6 +17,7 @@
 
 ### Competitions
 **Global**
+- Kaggle - LLM Science Exam - **17th / 2664 (Top 1\%)** ([Kaggle](https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/446242)) [Oct 2023]
 - Reconstructing the 3D scene from different views - **39th / 494 (Top 8\%)** ([Kaggle](https://www.kaggle.com/competitions/image-matching-challenge-2023/discussion/416847)) ([Github](https://github.com/gunesevitan/image-matching-challenge-2023)) [Jun 2023]
 - Matching learning materials with relevant contents - **31st / 1057 (Top 3\%)** ([Kaggle](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/discussion/394807)) ([Github](https://github.com/nlztrk/Learning-Equality-Curriculum-Recommendations)) [Mar 2023]
 - Predicting e-commerce clicks, cart additions, and orders - **28th / 2587 (Top 2\%)** ([Kaggle](https://www.kaggle.com/competitions/otto-recommender-system/discussion/382812)) ([Github](https://github.com/nlztrk/OTTO-Multi-Objective-Recommender-System)) [Feb 2023]
@@ -24,7 +25,8 @@
 - Predicting wildfire occurence in Turkey - **1st / 17** ([Github](https://github.com/nlztrk/turkey_wildfire_prediction)) [Apr 2022]
 
 **Turkey**
-- Forecasting net cashflow from operations - **3d / 72** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/6th-place-solution-2-estimators-usd-scaling)) [Jun 2023]
+- Türkiye İş Bankası ML Challenge #5 - **1st / 72** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/tibmlc-5-public-3-private-4)) [Oct 2023]
+- Forecasting net cashflow from operations - **3rd / 72** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/6th-place-solution-2-estimators-usd-scaling)) [Jun 2023]
 - Predicting benefit from a particular campaign with past transactions - **3rd / 186** ([Kaggle](https://www.kaggle.com/code/nlztrk/3rd-place-solution-0-51376-0-47111)) [Dec 2022]
 - Estimating call amount in case of an outage at power networks - **3d / 72** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/long-live-the-shallow-models-7th-place-solution)) [Sep 2022]
 - Development of a public legislation search engine - **1st** ([Github](https://github.com/L2-Regulasyon/Teknofest)) [Sep 2022]
@@ -36,6 +38,14 @@
 - Predicting Marital Status using Monthly Expense Data - **5th / 117** ([Github](https://github.com/nlztrk/kaggle_predicting_marital_status)) [Feb 2021]
 - Identifying Structural Damages with Image Segmentation - **3rd / 36** *(after presentations)* ([Github](https://github.com/nlztrk/kaggle_identifying_structural_damages)) [Dec 2020]
 
+### Patents
+- Systems and methods for predicting remaining useful life in batteries and assets ([Pt1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11527786) - [Pt2](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11626628) - [Pt3](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11658356) - [Pt4](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11705590) - [Pt5](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230307732) - [Pt6](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230307731)) **[2023 - USPTO]**
+
+### Publications
+- Monocular 3D Object Detection by Leveraging Self-Supervised Visual Pre-training ([link](https://ml4ad.github.io/files/papers2021/Monocular%203D%20Object%20Detection%20by%20Leveraging%20Self-Supervised%20Visual%20Pre-training.pdf)) **[2021 NeurIPS - ML4AD Workshop]**
+- Investigating Value of Curriculum Reinforcement Learningin Autonomous Driving Under Diverse Road and Weather Conditions ([link](https://ieeexplore.ieee.org/abstract/document/9669203)) **[2021 IEEE Intelligent Vehicles Symposium Workshops]**
+- Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[2020 IEEE Intelligent Vehicles Symposium]**
+
 ### Research Repositories
 - Estimating Revenue using in-app User Events ([link](https://github.com/nlztrk/app_revenue_estimation))
 - Building and Running GANs, SR-GANs and VAEs on Icons ([link](https://github.com/nlztrk/gan_srgan_vae))
@@ -43,12 +53,7 @@
 - Correlation Analysis of Graph Centrality Measures ([link](https://github.com/nlztrk/centrality_correlations))
 - Crime Network Analysis ([link](https://github.com/nlztrk/crime_networks_analysis))
 - Girvan-Newman Implementation for Highest Graph Modularity ([link](https://github.com/nlztrk/girvan_newman))
-
-### Publications
-- Monocular 3D Object Detection by Leveraging Self-Supervised Visual Pre-training ([link](https://ml4ad.github.io/files/papers2021/Monocular%203D%20Object%20Detection%20by%20Leveraging%20Self-Supervised%20Visual%20Pre-training.pdf)) **[2021 NeurIPS - ML4AD Workshop]**
-- Investigating Value of Curriculum Reinforcement Learningin Autonomous Driving Under Diverse Road and Weather Conditions ([link](https://ieeexplore.ieee.org/abstract/document/9669203)) **[2021 IEEE Intelligent Vehicles Symposium Workshops]**
-- Development of A Stochastic Traffic Environment with Generative Time-Series Models for Improving Generalization Capabilities of Autonomous Driving Agents ([link](https://ieeexplore.ieee.org/document/9304774/)) **[2020 IEEE Intelligent Vehicles Symposium]**
-
+  
 ### MSc. Course Projects
 - Artificial Intelligence ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG521E%20(Artificial%20Intelligence)))
 - Machine Learning ([Github](https://github.com/nlztrk/ITU-CE-MSc/tree/master/BLG527E%20(Machine%20Learning)))
