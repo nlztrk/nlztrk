@@ -25,7 +25,7 @@
 - Predicting wildfire occurence in Turkey - **1st / 17** ([Github](https://github.com/nlztrk/turkey_wildfire_prediction)) [Apr 2022]
 
 **Turkey**
-- Recommending in-app menus based on past user interactions - **1st / 72** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/tibmlc-5-public-3-private-4)) [Oct 2023]
+- Recommending in-app menus based on past user interactions - **1st / 284** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/tibmlc-5-public-3-private-4)) [Oct 2023]
 - Forecasting net cashflow from operations - **3rd / 72** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/6th-place-solution-2-estimators-usd-scaling)) [Jun 2023]
 - Predicting benefit from a particular campaign with past transactions - **3rd / 186** ([Kaggle](https://www.kaggle.com/code/nlztrk/3rd-place-solution-0-51376-0-47111)) [Dec 2022]
 - Estimating call amount in case of an outage at power networks - **3d / 72** *(after presentations)* ([Kaggle](https://www.kaggle.com/code/nlztrk/long-live-the-shallow-models-7th-place-solution)) [Sep 2022]
